@@ -1,0 +1,6 @@
+#Samuel_Tupa_Febrian
+#Week01 Lab : Tutorial push, pull, add, commit in github
+
+#Summary : This week's lab is to do push, pull, commit, add in githuc
+
+#Due date : Tuesday 5 September 2017
