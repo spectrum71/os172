@@ -5,3 +5,4 @@
 #1. because I am a computer science student
 #2. OS is essential for the computer
 #3. We need to understand the OS before we make a program for that OS
+#4. To make me easier to know if anything gone wrong involving OS
