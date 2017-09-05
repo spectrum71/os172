@@ -1,1 +1,7 @@
 #spectrum71
+
+#why i study OS?
+
+#1. because I am a computer science student
+#2. OS is essential for the computer
+#3. We need to understand the OS before we make a program for that OS
