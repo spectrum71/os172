@@ -1,0 +1,6 @@
+#Samuel_Tupa_Febrian
+#Week00 Lab : Introduction to github and badak
+
+#Summary : This week's lab task is to create github account and repo, as well as login to badak server
+
+#Due date : Wednesday 30th August 2017
