@@ -20,3 +20,7 @@ drwxr-xr-x  2 samuel.tupa StafCS 4096 Sep  5 14:12 week09
 drwxr-xr-x  2 samuel.tupa StafCS 4096 Sep  5 14:12 week10
 drwxr-xr-x  2 samuel.tupa StafCS 4096 Sep  5 14:13 xtra
 /home/fasilkom/mahasiswa/s/samuel.tupa/os172/week01
+Today is 
+Today is 
+Today is 
+Today is 05 Sep 2017 at 15:29:01
