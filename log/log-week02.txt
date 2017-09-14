@@ -2,3 +2,9 @@ w02-170912-12-PS-Week02 Lab About : Encryption and C
 w02-170912-12-PS-Week02 Lab About : Encryption and C
 w02-170912-13-PS-Week02 Lab About : Encryption and C
 w02-170912-13-PS-Week02 Lab About : Encryption and C
+w02-170912-16-PS-Scripting with Lecturer
+w02-170912-16-LR-About : Security and Encryption, from : Lecturer
+w02-170912-17-LR-About : Security and Encryption, from : Lecturer
+w02-170914-16-LR-About : C Language, from : Lecturer
+w02-170914-16-LR-About : C Language, from : Lecturer
+w02-170914-17-LR-About : C Language, from : Lecturer
