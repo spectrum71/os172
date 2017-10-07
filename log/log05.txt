@@ -1,0 +1,9 @@
+w05-171003-16-LR-About : Memory, from : Lecturer
+w05-171003-16-LR-About : Memory, from : Lecturer
+w05-171003-17-LR-About : Memory, from : Lecturer
+w05-171005-14-DS-Discussing convert method implementation on w05&06 task
+w05-171005-15-DS-Discussing convert method implementation on w05&06 task
+w05-171005-16-LR-About : Memory, from : Lecturer
+w05-171005-16-LR-About : Memory, from : Lecturer
+w05-171005-17-LR-About : Memory, from : Lecturer
+
