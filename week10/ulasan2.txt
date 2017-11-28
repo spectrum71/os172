@@ -1,0 +1,6 @@
+Github : spectrum71
+URL Ulasan : https://rand0101int.blogspot.co.id/2017/11/ulasan2-virtual-memory-5-page-tables.html
+URL Video : http://youtu.be/KNUJhZCQZ9c 6.31 menit
+Pemetaan : week05
+Revisi Pertama : 28 November 2017
+Revisi Terakhir : 28 November 2017
